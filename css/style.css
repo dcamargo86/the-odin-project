@@ -1,0 +1,94 @@
+body {
+  background: #fff;
+  font-family: arial,sans-serif;
+}
+
+header img {
+  float: right;
+}
+
+header nav {
+  color: #000;
+  word-spacing: 5px;
+  float: right;
+  margin-top: 20px;
+}
+
+
+#middle {
+  margin: 150px 520px;
+  float: left;
+  display: block;
+  clear: both;
+}
+
+
+input[type="text"] {
+  width: 45em;
+  height: 2.5em;
+  display: block;
+  margin: auto -110px;
+  border: 1.5px #00ffff solid;
+  position: relative;
+}
+
+
+#input_img {
+  background: no-repeat scroll;
+  position: absolute;
+  margin: -75px 422px;
+
+}
+
+
+#btn {
+
+display: inline;
+margin: auto 45px;
+font-size: 11px;
+	font-weight: bold;
+	text-align: center;
+	height: 27px;
+	border: 1px solid #dcdcdc;
+	border-radius: 2px;
+
+}
+
+
+#footer nav {
+  color: #777;
+}
+
+#footer {
+
+  height: 45px;
+  width: 100%;
+  border: 1px solid #f2f2f2;
+  background: #f2f2f2;
+  border-top: #e4e4e4;
+  margin-left: -10px;
+  position: absolute;
+  bottom: 0;
+  display: block;
+
+
+}
+
+#left {
+
+  float: left;
+  margin-left: 10px;
+  margin-top: 15px;
+  word-spacing: 5px;
+}
+
+
+#right {
+  float: right;
+  margin-right:20px;
+  margin-top: 15px;
+}
+
+a:hover {
+  text-decoration: underline;
+}
